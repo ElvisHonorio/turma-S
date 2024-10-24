@@ -7,6 +7,7 @@ section{
     background: rgb(229, 65, 153);
     padding-top: 1%;
     padding-bottom: 1%;
+    display: flex;
 }
 
 header{
